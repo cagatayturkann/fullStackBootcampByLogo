@@ -1,0 +1,23 @@
+{
+  "name": "week1-assignment-cagatayturkann",
+  "version": "1.0.0",
+  "description": "Logo Bootcamp Ödev 1. XMLHttpRequest Örneği",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-cagatayturkann.git"
+  },
+  "author": "Çağatay Türkan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-cagatayturkann/issues"
+  },
+  "homepage": "https://github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-cagatayturkann#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
